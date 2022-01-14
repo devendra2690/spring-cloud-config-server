@@ -1,6 +1,5 @@
 [
   {
-    "name": "sample-app",
     "imageUri": "openjdk:latest"
   }
 ]
