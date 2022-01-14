@@ -1,3 +1,6 @@
-{
-"ImageURI": "openjdk:latest"
-}
+[
+  {
+    "name": "sample-app",
+    "imageUri": "openjdk:latest"
+  }
+]
